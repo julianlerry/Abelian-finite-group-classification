@@ -1,1 +1,1 @@
-# Abelian-finite-groupe-classification
+# Abelian finite group classification
